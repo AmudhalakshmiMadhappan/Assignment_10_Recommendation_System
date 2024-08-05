@@ -1,1 +1,4 @@
-# Assignment_10_Reommendation_System
+# Assignment_10_Recommendation_System
+Problem statement.
+
+Build a recommender system by using cosine simillarties score.
